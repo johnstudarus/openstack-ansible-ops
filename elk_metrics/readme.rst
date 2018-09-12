@@ -22,8 +22,8 @@ Copy the env.d file into place
 
 .. code-block:: bash
 
-    cd openstack-ansible-ops
-    cp elk_metrics/env.d/elk.yml /etc/openstack_deploy/env.d/
+    cd openstack-ansible-ops/elk_metrics
+    cp env.d/elk.yml /etc/openstack_deploy/env.d/
 
 Copy the conf.d file into place
 
